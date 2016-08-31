@@ -11,6 +11,7 @@ namespace GitTestApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Testing GIT");
+            Console.WriteLine("Testing GIT again");
             Console.ReadKey();
         }
     }
